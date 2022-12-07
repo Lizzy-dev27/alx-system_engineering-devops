@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c | tr -d "\" | sort
+cut -c 1 | paste -s -d ''
